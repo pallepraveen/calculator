@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /*background-color: #011627;
+    color: afdfffc;*/
+    text-align: center;
+    background: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Download-Graphic-Design-Backgrounds-Wallpaper.jpg);
+
+
+}
+h1{
+    font-size: 45px;
+    color: rgba(183, 230, 57, 0.99);
+    background:linear-gradient(40deg,white,red,green,yellow );
+    background-clip: text;
+    -webkit-text-stroke: 4px transparent;
+    padding: 10px;
+
+
+}
+input{
+    width: 50px;
+    height: 45px;
+    font-size: 35px;
+    border-radius: 70px;
+    margin: 5px;
+    background-color: white;
+    background:linear-gradient(40deg,white);
+    background-clip: text;
+    -webkit-text-stroke: 4px transparent;
+    padding: 5px;
+} 
+
+.btn:hover{
+    background-color: rgb(92, 92, 146);
+    cursor: pointer;
+
+}
